@@ -1,7 +1,6 @@
 <!--
   GitHub Profile README for Manvitha0101
   Place this file in a repo named exactly: Manvitha0101/Manvitha0101
-  Replace every <REPLACE_...> placeholder before publishing.
 -->
 
 <div align="center">
@@ -13,11 +12,11 @@
 
 <br/>
 
-<!-- Socials — REPLACE the hrefs below with your real links -->
-<a href="https://linkedin.com/in/<REPLACE_LINKEDIN_USERNAME>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:<REPLACE_EMAIL>"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- Socials -->
+<a href="https://linkedin.com/in/manvithabudidha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:manvithabudidha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/manvithaa_01"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="<REPLACE_PORTFOLIO_URL>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://manvithabudidha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
@@ -28,7 +27,7 @@
 I'm a second-year IT student at **G. Narayanamma Institute of Technology & Science, Hyderabad**, building AI-powered products end-to-end — from LLM agent backends to the frontends people actually use them through.
 
 - 🔭 Currently building **AI agent** and **LLM-integrated** applications (LangChain + Gemini)
-- 🏆 Hackathon builder — CipherCop national-hackathon finalist
+- 🏆 Hackathon builder — CipherCop national-hackathon finalist, Indeathon (Agentic AI track) winner
 - 🌱 Deepening my grip on **DSA**, **ML fundamentals**, and **RAG / agentic systems**
 - 💬 Ask me about FastAPI backends, LangChain agents, or Flutter/Firebase apps
 - ⚡ Fun fact: I'd rather understand *why* code works than just ship it working
@@ -71,6 +70,20 @@ I'm a second-year IT student at **G. Narayanamma Institute of Technology & Scien
 <tr>
 <td width="50%" valign="top">
 
+### 👗 [StyleSense AI](https://style-speak-frontend.vercel.app/)
+Fashion AI application built for the FlowAI hackathon, with an explainable-AI reasoning layer baked into every recommendation.
+
+- 🧥 **Fashion Interpreter** — turns natural-language style requests into structured preferences
+- 🔍 **Fashion Detective** — identifies and matches styles/items from context
+- 🎯 **Constraint Narrowing** — iteratively refines recommendations based on user feedback
+- 🛍️ **Outfit Builder** — assembles complete outfits from matched pieces
+- 💡 Inline explainable AI reasoning surfaced alongside every suggestion
+
+`LLMs` `Agentic AI` `React` `Explainable AI`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎓 [AcadeBot — Smart Timetable AI Agent](https://github.com/Manvitha0101/smart-timetable)
 AI-powered academic time manager with a conversational scheduling agent.
 
@@ -83,6 +96,8 @@ AI-powered academic time manager with a conversational scheduling agent.
 `Next.js 14` `FastAPI` `LangChain` `Gemini Pro` `SQLite` `Tailwind CSS`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💊 [MediAssure — Medication Adherence App](https://github.com/Manvitha0101/mediassure)
@@ -97,8 +112,6 @@ Cross-platform Flutter app connecting patients, caretakers, and doctors around m
 `Flutter` `Dart` `Firebase Auth` `Cloud Firestore` `FCM`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏆 [CodingBat Progress Tracker](https://github.com/Manvitha0101/codingbat-tracker)
@@ -110,17 +123,6 @@ Real-time monitoring system tracking student progress on CodingBat.
 - 🗄️ PostgreSQL + SQLAlchemy backed data layer
 
 `React` `FastAPI` `PostgreSQL` `BeautifulSoup4`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Web Development Projects](https://github.com/Manvitha0101/web-development-projects)
-A growing collection of front-end projects built while learning core web development.
-
-- Hands-on practice with semantic HTML, CSS layouts, and vanilla JS interactivity
-- Serves as a running log of foundational front-end skills
-
-`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
@@ -157,17 +159,15 @@ A growing collection of front-end projects built while learning core web develop
 
 I'm actively looking for **SWE / AI-ML internship** opportunities — always happy to talk about agentic AI, LLM tooling, or student-built products.
 
-<!-- REPLACE all links below with your real profiles -->
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/<REPLACE_LINKEDIN_USERNAME>)
-[![Email](https://img.shields.io/badge/-Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:<REPLACE_EMAIL>)
-[![Portfolio](https://img.shields.io/badge/-View_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](<REPLACE_PORTFOLIO_URL>)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvithabudidha)
+[![Email](https://img.shields.io/badge/-Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manvithabudidha@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-View_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://manvithabudidha.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/manvithaa_01)
 
 </div>
 
 <br/>
 
-<!-- Optional: remove if you don't want a visitor counter -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Manvitha0101&style=flat-square&color=6C63FF" alt="Profile views" />
 </div>
