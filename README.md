@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a second-year IT student at **G. Narayanamma Institute of Technology & Science, Hyderabad**, building AI-powered products end-to-end — from LLM agent backends to the frontends people actually use them through.
+I'm  IT student at **G. Narayanamma Institute of Technology & Science, Hyderabad**, building AI-powered products end-to-end — from LLM agent backends to the frontends people actually use them through.
 
 - 🔭 Currently building **AI agent** and **LLM-integrated** applications (LangChain + Gemini)
 - 🏆 Hackathon builder — CipherCop national-hackathon finalist
