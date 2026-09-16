@@ -48,6 +48,8 @@ Building practical software systems and AI-powered applications.
 
 ---
 
+
+
 ## 🚀 Featured Projects
 
 <table>
@@ -68,15 +70,15 @@ Building practical software systems and AI-powered applications.
 
 <td width="50%" valign="top">
 
-<h3>🤖 AcadeBot</h3>
+<h3>☁️ CloudVault</h3>
 
-<p>AI-powered academic scheduling agent that creates study plans, detects conflicts, and integrates with Google Calendar.</p>
+<p>Secure cloud file storage platform with file management, authentication, REST APIs, and scalable backend architecture.</p>
 
 <p>
-<code>Next.js</code> <code>FastAPI</code> <code>LangChain</code> <code>Gemini</code>
+<code>React</code> <code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Docker</code>
 </p>
 
-<a href="https://github.com/Manvitha0101/smart-timetable">GitHub</a> · <a href="https://smart-timetable.vercel.app/">Live Demo</a>
+<a href="CLOUDVAULT_GITHUB_LINK">GitHub</a> · <a href="CLOUDVAULT_LIVE_LINK">Live Demo</a>
 
 </td>
 </tr>
