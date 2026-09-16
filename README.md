@@ -48,53 +48,70 @@ Building practical software systems and AI-powered applications.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🚚 SmartRoute — Delivery Route Optimization
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**React · Node.js · Express.js · PostgreSQL · Prisma · Docker**
+<h3>🚚 SmartRoute</h3>
 
-Delivery route optimization platform for assigning orders to capacity-constrained vehicles.
+<p>Delivery route optimization platform using VRP-based greedy optimization, capacity constraints, priorities, and delivery deadlines.</p>
 
-* Vehicle Routing Problem (VRP) using a **Greedy Nearest Neighbor heuristic**
-* **Haversine distance**, vehicle capacity, priority and delivery-deadline constraints
-* Transactional route assignment using **Prisma**
-* Modular optimization architecture designed for future algorithm upgrades
-* REST APIs for drivers, orders and route lifecycle management
+<p>
+<code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Docker</code>
+</p>
 
-[GitHub](https://github.com/Manvitha0101)
+<a href="SMARTROUTE_GITHUB_LINK">GitHub</a> · <a href="SMARTROUTE_LIVE_LINK">Live Demo</a>
 
+</td>
 
+<td width="50%" valign="top">
 
-### 💊 MediAssure — Medication Adherence Platform
+<h3>🤖 AcadeBot</h3>
 
-**Flutter · Dart · Firebase**
+<p>AI-powered academic scheduling agent that creates study plans, detects conflicts, and integrates with Google Calendar.</p>
 
-Cross-platform application connecting patients, caretakers and doctors.
+<p>
+<code>Next.js</code> <code>FastAPI</code> <code>LangChain</code> <code>Gemini</code>
+</p>
 
-* Role-based Patient / Caretaker / Doctor workflows
-* Scheduled medication reminders and notifications
-* Dose logging and caretaker alerts
-* Firebase Authentication and Firestore
+<a href="https://github.com/Manvitha0101/smart-timetable">GitHub</a> · <a href="https://smart-timetable.vercel.app/">Live Demo</a>
 
-[GitHub](https://github.com/Manvitha0101/mediassure)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### 📊 CodingBat Progress Tracker
+<h3>💊 MediAssure</h3>
 
-**React · FastAPI · PostgreSQL · BeautifulSoup**
+<p>Medication adherence platform connecting patients, caretakers, and doctors with reminders, alerts, and role-based workflows.</p>
 
-Student coding-progress monitoring platform.
+<p>
+<code>Flutter</code> <code>Dart</code> <code>Firebase</code>
+</p>
 
-* Automated background synchronization
-* Progress and activity analytics
-* PostgreSQL-backed data layer
-* Time-series progress visualization
+<a href="https://github.com/Manvitha0101/mediassure">GitHub</a>
 
-[GitHub](https://github.com/Manvitha0101/codingbat-tracker)
+</td>
 
----
+<td width="50%" valign="top">
+
+<h3>👗 StyleSense AI</h3>
+
+<p>Fashion AI application using LLMs and explainable AI to interpret style preferences and build personalized outfits.</p>
+
+<p>
+<code>React</code> <code>LLMs</code> <code>Agentic AI</code> <code>Explainable AI</code>
+</p>
+
+<a href="https://style-speak-frontend.vercel.app/">Live Demo</a>
+
+</td>
+</tr>
+</table>
+
 
 ## Problem Solving
 
